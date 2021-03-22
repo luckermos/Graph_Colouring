@@ -1,0 +1,80 @@
+slides > slide.backdrop {
+  background: white;
+  border-bottom: 10px solid  #266B93;
+  box-shadow: 0 3px 0 #266B93;
+  border-top: 10px solid  #266B93
+}
+
+
+slides > slide {
+  font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+  border-bottom: 10px solid  #266B93;
+  box-shadow:  0 0 0;
+  border-top: 10px solid  #266B93;
+}
+
+.title-slide hgroup h1 {
+  color: #266B93;
+  font-size: 48px;
+  
+}
+
+.title-slide hgroup h2 {
+  font-size: 28px;
+}
+
+
+h2 {
+  
+  color: #266B93;
+}
+
+slides > slide.dark {
+  background: #266B93 !important;
+    border-bottom: 10px solid  #FFFFFF;
+    border-top: 10px solid  #FFFFFF;
+  box-shadow: 0 0 0;
+}
+
+.segue h2 {
+  color: white;
+}
+
+slides > slide.title-slide {
+  border-bottom: 10px solid  #266B93;
+  box-shadow: 0 0 0;
+  border-top: 10px solid  #266B93;
+}
+
+ol, ul {
+  
+  padding-bottom: 10px;
+  
+}
+
+slides > slide:not(.nobackground):before {
+      font-size: 12pt;
+      content: "";
+      position: absolute;
+      bottom: 20px;
+      left: 60px;
+      background:  no-repeat 0 50%;
+      -webkit-background-size: 30px 30px;
+      -moz-background-size: 30px 30px;
+      -o-background-size: 30px 30px;
+      background-size: 30px 30px;
+      padding-left: 40px;
+      height: 30px;
+      line-height: 1.9;
+    }
+
+.gdbar img {
+  width: 746px !important;
+  height: 231px !important;
+  margin: 8px 8px;
+}
+
+.gdbar {
+  width: 746px !important;
+  height: 245px !important;
+}
