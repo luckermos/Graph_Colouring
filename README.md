@@ -1,4 +1,4 @@
-![t](https://github.com/luckermos/Graph_Colouring/blob/main/logo_branco.png?raw=true)
+![](https://github.com/luckermos/Graph_Colouring/blob/main/logo_branco.png?raw=true)
 # Graph Colouring
 
 Trabalho desenvolvido na disciplina de Inferência em Grafos Aleatórios (Estatística-UFMG) no semestre letivo 2019/1.
