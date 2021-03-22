@@ -9,7 +9,7 @@ O trabalho consiste no estudo do problema de coloração de grafos: atribuir uma
 
 O problema é descrito e uma série de algoritmos são apresentados, implementados em *R* e comparados.
 
-Foi utilizada como referência principal o livro "A Guide to Graph Colouring" de R.M.R. Lewis de 2016, editora Springer.
+Foi utilizado como referência principal o livro "A Guide to Graph Colouring" de R.M.R. Lewis de 2016, editora Springer.
 
 ## Arquivos
 
